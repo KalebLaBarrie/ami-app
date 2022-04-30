@@ -1,17 +1,13 @@
 {
   "files": {
     "main.css": "/ami-app/static/css/main.88ac9eb6.css",
-    "main.js": "/ami-app/static/js/main.857837c8.js",
+    "main.js": "/ami-app/static/js/main.e2ffc26d.js",
     "static/media/video.mp4": "/ami-app/static/media/video.ec6efd16b6b4b784cc41.mp4",
-    "static/media/C4_Images_Listen_2.jpeg": "/ami-app/static/media/C4_Images_Listen_2.d5e594e09f88ce46b162.jpeg",
     "static/media/C4_Images_Video_6.jpeg": "/ami-app/static/media/C4_Images_Video_6.13a739f3738e0deff5fe.jpeg",
     "static/media/C4_Images_Video_4.jpeg": "/ami-app/static/media/C4_Images_Video_4.60e01f1f3653c70fcbf9.jpeg",
     "static/media/C4_Images_Video_2.jpeg": "/ami-app/static/media/C4_Images_Video_2.721e41d903bd9fb2bb39.jpeg",
     "static/media/C4_Images_Listen_4.jpeg": "/ami-app/static/media/C4_Images_Listen_4.3838df880789f43955d4.jpeg",
     "static/media/C4_Images_Video_3.jpeg": "/ami-app/static/media/C4_Images_Video_3.f4c89dfe3b0c16484c81.jpeg",
-    "static/media/C4_Images_Listen_3.jpeg": "/ami-app/static/media/C4_Images_Listen_3.ee470792a72cb2fa3a6e.jpeg",
-    "static/media/C4_Images_Listen_1.jpeg": "/ami-app/static/media/C4_Images_Listen_1.fb632f0b0cb5718d603f.jpeg",
-    "static/media/C4_Images_Video_5.jpeg": "/ami-app/static/media/C4_Images_Video_5.5bf333b947400ec64290.jpeg",
     "static/media/NEEO_Lifestyle_2.jpg": "/ami-app/static/media/NEEO_Lifestyle_2.65b476d7d214b4993bb6.jpg",
     "static/media/C4_Images_Video_8.jpeg": "/ami-app/static/media/C4_Images_Video_8.7f9f2edc6ff3ba04d001.jpeg",
     "static/media/NEEO_Lifestyle_11.jpg": "/ami-app/static/media/NEEO_Lifestyle_11.7cf4e0edc3f0da5061f1.jpg",
@@ -23,10 +19,10 @@
     "static/media/svg-1.svg": "/ami-app/static/media/svg-1.b7eeb954ad12b62c593646ba8302077b.svg",
     "index.html": "/ami-app/index.html",
     "main.88ac9eb6.css.map": "/ami-app/static/css/main.88ac9eb6.css.map",
-    "main.857837c8.js.map": "/ami-app/static/js/main.857837c8.js.map"
+    "main.e2ffc26d.js.map": "/ami-app/static/js/main.e2ffc26d.js.map"
   },
   "entrypoints": [
     "static/css/main.88ac9eb6.css",
-    "static/js/main.857837c8.js"
+    "static/js/main.e2ffc26d.js"
   ]
 }
