@@ -10,6 +10,7 @@ import {
   NavMenu,
   NavItem,
   NavLinks,
+  NavLogoBottom,
   NavBtn,
   NavBtnLink,
 } from './NavbarElements';
@@ -39,7 +40,9 @@ const Navbar = ({ toggle }) => {
         <Nav scrollNav={scrollNav}>
           <NavbarContainer>
             <NavLogo to="/" onClick={toggleHome}>
-              ami
+              AMI
+          <NavLogoBottom>Acoustic & Media Integrations</NavLogoBottom>
+
             </NavLogo>
             <MobileIcon onClick={toggle}>
               <FaBars />

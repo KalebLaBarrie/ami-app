@@ -28,8 +28,7 @@ const HeroSection = () => {
       <HeroContent>
         <HeroH1>Acoustic & Media Integrations</HeroH1>
         <HeroP>
-          Create the custom home experience of your dreams. Email us today to
-          schedule a consultation.
+          We provide custom engineered solutions that will enhance the everyday entertainment experience.
         </HeroP>
         <HeroBtnWrapper>
           <Button
