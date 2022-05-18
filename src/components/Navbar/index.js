@@ -41,7 +41,7 @@ const Navbar = ({ toggle }) => {
           <NavbarContainer>
             <NavLogo to="/" onClick={toggleHome}>
               AMI
-          <NavLogoBottom>Acoustic & Media Integrations</NavLogoBottom>
+          <NavLogoBottom>Acoustic & Media Integrations...</NavLogoBottom>
 
             </NavLogo>
             <MobileIcon onClick={toggle}>
