@@ -6,7 +6,7 @@ export const homeObjOne = {
   topLine: 'Automation',
   headLine: 'Automate your home experience',
   description:
-    'Our use of Control 4 technology will connect your home devices and create a intelligent smart home experience for the entire family to enjoy.',
+    'A home featuring premium automation from Control4 means more comfort, convenience and security without a second thought. Control4 solutions make it easy to command all things—lights, security, climate control, home theater, music and more whether you’re at home or on the go. Blinds go up when the sun rises. Text alerts arrive when the kids get home from school. Lights set the perfect mood for your dinner party with one touch. Thermostats set the temperature just right as you head home from work.',
   buttonLabel: 'Get Started',
   imgStart: false,
   img: require('../../images/svg-1.svg'),

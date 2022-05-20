@@ -28,7 +28,8 @@ const HeroSection = () => {
       <HeroContent>
         <HeroH1>Acoustic & Media Integrations</HeroH1>
         <HeroP>
-          We provide custom engineered solutions that will enhance the everyday entertainment experience.
+          Providing you with custom engineered solutions that will enhance your
+          everyday entertainment experience.
         </HeroP>
         <HeroBtnWrapper>
           <Button
