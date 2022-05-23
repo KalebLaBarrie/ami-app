@@ -14,12 +14,14 @@ import {
   TopLine,
 } from './ServicesElements';
 
+import automatedWindowTreatment from '../../images/automatedwindowtreatments.png';
+
 const Services = () => {
   return (
     <ServicesContainer id="services">
       <TopLine>Our Services</TopLine>
 
-      <ServicesWrapper>
+      {/* <ServicesWrapper>
         <ServicesCard>
           <ServicesIcon src={Icon1} />
           <ServicesH2>Audiovisual Installations</ServicesH2>
@@ -44,8 +46,12 @@ const Services = () => {
             assumenda.
           </ServicesP>
         </ServicesCard>
-      </ServicesWrapper>
-      {/* <Card /> */}
+      </ServicesWrapper> */}
+      <Card
+        title="Automated window treatment"
+        imageUrl={automatedWindowTreatment}
+        body="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio temporibus numquam consequatur quidem repellendus nemo itaque ab eum optio non tempore sed dicta aliquid pariatur aspernatur, atque autem. Non, enim."
+      />
     </ServicesContainer>
   );
 };

@@ -1,8 +1,8 @@
 export const homeObjOne = {
   id: 'about',
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
   topLine: 'Automation',
   headLine: 'Automate your home experience',
   description:
@@ -11,16 +11,16 @@ export const homeObjOne = {
   imgStart: false,
   img: require('../../images/svg-1.svg'),
   alt: 'Car',
-  dark: true,
-  primary: true,
-  darkText: false,
+  dark: false,
+  primary: false,
+  darkText: true,
 };
 
 export const homeObjTwo = {
   id: 'discover',
-  lightBg: true,
-  lightText: false,
-  lightTextDesc: false,
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
   topLine: 'Custom Solutions',
   headLine: 'We make your vision come true!',
   description:
@@ -29,16 +29,16 @@ export const homeObjTwo = {
   imgStart: true,
   img: require('../../images/svg-2.svg'),
   alt: 'Chart',
-  dark: false,
-  primary: false,
-  darkText: true,
+  dark: true,
+  primary: true,
+  darkText: false,
 };
 
 export const homeObjThree = {
   id: 'email',
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
   topLine: 'Consultation',
   headLine: 'Schedule a consultation today!',
   description:
@@ -47,7 +47,7 @@ export const homeObjThree = {
   imgStart: false,
   img: require('../../images/svg-3.svg'),
   alt: 'Car',
-  dark: true,
-  primary: true,
-  darkText: false,
+  dark: false,
+  primary: false,
+  darkText: true,
 };

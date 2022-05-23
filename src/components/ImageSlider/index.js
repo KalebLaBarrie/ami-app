@@ -23,7 +23,7 @@ const ImageSlider = ({ slides }) => {
 
   return (
     <>
-      <div id="gallery" style={{ padding: '10%' }}>
+      <div id="gallery" style={{ padding: '10%', background: '#152349' }}>
         {/* <h1 className="title">Gallery</h1> */}
         <TopLine>Gallery</TopLine>
         <section className="slider responsive">
