@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ami-app/static/css/main.88ac9eb6.css",
-    "main.js": "/ami-app/static/js/main.18f5f165.js",
+    "main.css": "/ami-app/static/css/main.bffe1ca6.css",
+    "main.js": "/ami-app/static/js/main.774a838a.js",
     "static/media/video.mp4": "/ami-app/static/media/video.ec6efd16b6b4b784cc41.mp4",
     "static/media/Backyard-HighRes.jpg": "/ami-app/static/media/Backyard-HighRes.1bc7ca1df24aae93e6a9.jpg",
     "static/media/Home-Install-NY.jpg": "/ami-app/static/media/Home-Install-NY.32f51eb9fc1e7b94fe28.jpg",
@@ -13,6 +13,7 @@
     "static/media/C4_Images_Video_2.jpeg": "/ami-app/static/media/C4_Images_Video_2.721e41d903bd9fb2bb39.jpeg",
     "static/media/C4_Images_Listen_4.jpeg": "/ami-app/static/media/C4_Images_Listen_4.3838df880789f43955d4.jpeg",
     "static/media/C4_Images_Video_3.jpeg": "/ami-app/static/media/C4_Images_Video_3.f4c89dfe3b0c16484c81.jpeg",
+    "static/media/automatedwindowtreatments.png": "/ami-app/static/media/automatedwindowtreatments.4170208491191579ef12.png",
     "static/media/NEEO_Lifestyle_2.jpg": "/ami-app/static/media/NEEO_Lifestyle_2.65b476d7d214b4993bb6.jpg",
     "static/media/C4_Images_Video_8.jpeg": "/ami-app/static/media/C4_Images_Video_8.7f9f2edc6ff3ba04d001.jpeg",
     "static/media/NEEO_Lifestyle_11.jpg": "/ami-app/static/media/NEEO_Lifestyle_11.7cf4e0edc3f0da5061f1.jpg",
@@ -23,11 +24,11 @@
     "static/media/svg-3.svg": "/ami-app/static/media/svg-3.f7ae6c3e1350692242830060aa6e4a75.svg",
     "static/media/svg-1.svg": "/ami-app/static/media/svg-1.b7eeb954ad12b62c593646ba8302077b.svg",
     "index.html": "/ami-app/index.html",
-    "main.88ac9eb6.css.map": "/ami-app/static/css/main.88ac9eb6.css.map",
-    "main.18f5f165.js.map": "/ami-app/static/js/main.18f5f165.js.map"
+    "main.bffe1ca6.css.map": "/ami-app/static/css/main.bffe1ca6.css.map",
+    "main.774a838a.js.map": "/ami-app/static/js/main.774a838a.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ac9eb6.css",
-    "static/js/main.18f5f165.js"
+    "static/css/main.bffe1ca6.css",
+    "static/js/main.774a838a.js"
   ]
 }
